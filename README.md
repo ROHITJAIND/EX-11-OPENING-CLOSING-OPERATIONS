@@ -1,6 +1,7 @@
 # EX-11 OPENING CLOSING OPERATIONS
 ### Aim:
-To implement Opening and Closing using Python and OpenCV.
+To implement Opening and Closing using Python and OpenCV.  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **DATE:** 31.11.2023  
+
 ### Software Required
 Anaconda - Python 3.7 , OpenCV.
 ### Algorithm:
